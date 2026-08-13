@@ -131,7 +131,4 @@ export function AdminVendors() {
   />
 }
 
-export function AdminOrders() { return null }
-export function AdminCatalog() { return null }
-export function AdminReports() { return null }
-export function AdminSettings() { return null }
+
